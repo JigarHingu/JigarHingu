@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=JigarHingu&icon=0&color=12)](https://visitcount.itsvg.in)
-<h1 align= "center">Hi 👋, I'm JigarHingu</h1>
+<h1 align= "center">Hi 👋, I'm Jigar Hingu</h1>
 <h1 align="center">Dedicated to mastering the MERN stack, I aim to contribute positively to projects and deliver innovative solutions.</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jigarhingu46@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pto76sfh77k0zJRvNY2N77TWa6QRxWxH/view?usp=drive_link](https://drive.google.com/file/d/1Pto76sfh77k0zJRvNY2N77TWa6QRxWxH/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Pto76sfh77k0zJRvNY2N77TWa6QRxWxH/view?usp=drive_link](https://drive.google.com/file/d/1Pto76sfh77k0zJRvNY2N77TWa6QRxWxH/view?usp=drive_link)](https://drive.google.com/file/d/12_XgOk1B18R9-1HEUAZ67oQtS_cooCJe/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jigar-hingu) 
