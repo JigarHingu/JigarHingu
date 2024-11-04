@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jigarhingu46@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1WoncnlQVDhh4pkhZlFScyC3EOpg645J_/view)]
+- 📄 Know about my experiences [((https://drive.google.com/file/d/1xRe0a9TxlqK7tOzxUQtlJD6yurslvrom/view?usp=sharing))]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jigar-hingu) 
